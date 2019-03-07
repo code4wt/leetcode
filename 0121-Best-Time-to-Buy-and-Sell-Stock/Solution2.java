@@ -12,7 +12,7 @@ public class Solution2 {
         int min = prices[0];
 
         for (int i = 1; i < prices.length; i++) {
-            if (prices[i] < min) min = prices[i];
+            min = Math.min(prices[i], min);
             maxProfit = Math.max(maxProfit, prices[i] - min);
         }
 
