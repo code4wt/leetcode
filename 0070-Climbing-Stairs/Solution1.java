@@ -4,7 +4,7 @@
  * @author Tian ZhongBo
  * @date 2019-03-07 20:24:17
  */
-public class Solution {
+public class Solution1 {
 
     public int climbStairs(int n) {
         int[] result = new int[n + 1];
