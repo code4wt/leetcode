@@ -11,7 +11,7 @@ public class Solution2 {
 
     private Map<Character, Integer> map = new HashMap<>();
 
-    public Solution() {
+    public Solution2() {
         map.put('I', 1);
         map.put('V', 5);
         map.put('X', 10);
