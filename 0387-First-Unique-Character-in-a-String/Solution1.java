@@ -4,7 +4,7 @@
  * @author Tian ZhongBo
  * @date 2019-02-26 19:51:47
  */
-public class Solution {
+public class Solution1 {
 
     public int firstUniqChar(String s) {
         int[] counts = new int[26];
