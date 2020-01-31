@@ -4,7 +4,7 @@
  * @author Tian ZhongBo
  * @date 2019-02-27 17:51:55
  */
-public class Solution {
+public class Solution1 {
 
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) {
